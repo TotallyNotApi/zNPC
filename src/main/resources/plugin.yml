@@ -1,0 +1,6 @@
+name: zNPC
+version: ${project.version}
+main: cz.apigames.znpc.zNPC
+api-version: 1.16
+authors: [ApiGames]
+description: Plugin pro potreby portalu Zeta-gaming.eu
